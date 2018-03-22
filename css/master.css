@@ -1,0 +1,39 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+- MAIN CSS
+- FONTS
+- PLUGIN CSS
+
+
+- Author:  Alex Zaymund
+- Profile:  https://themeforest.net/user/pix-theme
+-------------------------------------------------------------------*/
+
+/* MAIN CSS */
+@import url('bootstrap.min.css');
+@import url('skin-bootstrap.css');
+@import url('font-awesome.min.css');
+@import url('theme.css');
+@import url('responsive.css');
+@import url('animate.css');
+@import url('color.css');
+
+
+
+/* FONTS */
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Exo:400,700);
+@import url('flaticon.css');
+@import url('simple-line-icons.css');
+
+
+
+/* PLUGIN CSS */
+@import url('loader.css');
+@import url('owl.carousel.css');
+@import url('owl.theme.css');
+@import url('isotope.css');
+
+
+

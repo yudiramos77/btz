@@ -341,7 +341,7 @@ html  .info-texts div::before {
     padding: 20px;
   }
   .header-padding div{
-    width:33%;
+    /* width:33%; */
     margin-bottom:15px;
   }
   /*.column-info div + div{
@@ -564,7 +564,7 @@ html .page-title .container-fluid .title + .pull-right {
     padding-top:0;
   }
   #owl-main-slider .item{
-    height:300px;
+    height:400px;
   }
 
   .column-info {

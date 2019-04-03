@@ -3191,3 +3191,10 @@ input[type="submit"] {
     margin-bottom: 0;
 }
 
+@media screen and (min-width: 768px){
+    .colc2{
+        -webkit-column-count: 2; /* Chrome, Safari, Opera */
+        -moz-column-count: 2; /* Firefox */
+        column-count: 2;
+    }
+}
